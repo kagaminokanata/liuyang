@@ -1,2 +1,3 @@
-remoto追加远程修改2
+remoto追加远程修改
 用GitHub修改
+远程修改3
